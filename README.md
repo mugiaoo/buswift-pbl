@@ -2,8 +2,8 @@
 学部3年のプロジェクト学習で作成したアプリ「**ばすうぃふと**」<br>
 公開用に一部ファイルを閲覧できないようにしてるため，動作しません．<br>
 
-![ばすうぃふと](https://github.com/mugiaoo/buswift-pbl/assets/95331428/7a06f71c-964b-4e87-ab28-68247c471288)
-
+![ばすうぃふと](https://github.com/user-attachments/assets/3ac3f1f2-dd91-44af-993d-de485e5d9b91
+)
 ##コードディング規約
 [参考URL](https://trinitas.tech/2021/02/03/1007/)<br>
 
