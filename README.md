@@ -6,7 +6,7 @@
 アプリ全体のデザイン<br>
 ホーム画面、一覧画面のUI作成<br>
 
-![ばすうぃふと](https://github.com/user-attachments/assets/ad801375-3ec2-4acf-b659-576e3038da41)
+<img src="https://s6.ezgif.com/tmp/ezgif-6d63435e505005.gif" width="400">
 
 ##コードディング規約
 [参考URL](https://trinitas.tech/2021/02/03/1007/)<br>
