@@ -10,7 +10,7 @@
 
 |学部3年の頃の成果|現在|
 |:-:|:-:|
-|https://github.com/user-attachments/assets/10fafe35-2885-4b5e-9fb2-ba6cc67af577||
+|<video src="https://github.com/user-attachments/assets/10fafe35-2885-4b5e-9fb2-ba6cc67af577">||
 
 
 
