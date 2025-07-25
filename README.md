@@ -8,7 +8,7 @@
 ホーム画面、一覧画面のUI作成<br>
 
 
-|学部3年の頃の成果|現在|
+|学部3年時|現在|
 |:-:|:-:|
 |<video src="https://github.com/user-attachments/assets/10fafe35-2885-4b5e-9fb2-ba6cc67af577">|<video src="https://github.com/user-attachments/assets/503aadb9-474b-40df-ac1d-1aec915979cf">|
 
